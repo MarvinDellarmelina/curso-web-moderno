@@ -1,0 +1,7 @@
+{
+    "workbench.editor.openSideBySideDirection": "right",
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.list.defaultFindMode": "highlight",
+    "files.autoSave": "afterDelay",
+    "diffEditor.wordWrap": "inherit"
+}
